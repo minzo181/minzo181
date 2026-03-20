@@ -1,8 +1,9 @@
 **minzo181**
 
 Developer for fun. I like helping.
+
 **Languages**: Python
-***OS**: Linux (Artix)
+**OS**: Linux (Artix)
 
 **Projects**
 
