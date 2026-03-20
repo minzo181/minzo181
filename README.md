@@ -8,7 +8,7 @@ Developer for fun. I like helping.
 
 **Projects**
 
-https://fedorainstallationguide.netlify.app/ — A simple guide to install Fedora by me
+https://github.com/minzo181/fedora-install-guide — A simple guide to install Fedora by me
 
 **Learning**
 
