@@ -3,6 +3,7 @@
 Developer for fun. I like helping.
 
 **Languages**: Python
+
 **OS**: Linux (Artix)
 
 **Projects**
