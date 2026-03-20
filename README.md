@@ -1,16 +1,13 @@
-## Hi there 👋
+minzo181
 
-<!--
-**minzo181/minzo181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer for fun. I like helping
+Languages: Python
+OS: Linux (Artix)
+Projects
 
-Here are some ideas to get you started:
+https://fedorainstallationguide.netlify.app/ — A simple guide to install Fedora by me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learning
+
+Cybersecurity
+Python
