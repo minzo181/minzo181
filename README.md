@@ -4,7 +4,7 @@ Developer for fun. I like helping.
 
 **Languages**: Python
 
-**OS**: Linux (Artix)
+**OS**: Linux (Gentoo)
 
 **Projects**
 
@@ -12,5 +12,5 @@ https://github.com/minzo181/fedora-install-guide — A simple guide to install F
 
 **Learning**
 
-Cybersecurity
+Linux
 Python
