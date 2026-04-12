@@ -8,5 +8,5 @@ Developer for fun. I like helping.
 
 **Learning**
 
-Linux
+Linux,
 Python
